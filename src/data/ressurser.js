@@ -76,4 +76,4 @@ const resources = [
     },
   ];
 
-  export { resources };
+  export default resources;
